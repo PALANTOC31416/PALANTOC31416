@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Sobre mi :
 - Puedes contactarme por gmail en: **planvdz@gmail.com**.
-- Puedes preguntarme sobre **JS, PHP, Java, MySql, CSS, HTML5**.
+- Puedes preguntarme sobre **JS, PHP, Java, Hibernate, Spring Boot, Spring Framekor, Docker, JPA, Angular, React, MySql, Oracle, CSS, HTML5**.
 - Mi sitio web lo puedes encontrar como: https://palantoc31416.github.io/myPage/
 
 
@@ -16,6 +16,8 @@
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="php" width="40" height="40" />&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40" />&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="java" alt="java" width="40" height="40" />&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="java" alt="java" width="40" height="40" />&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java Script" alt="js" width="40" height="40" />&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40" />&nbsp
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40" />&nbsp
