@@ -1,9 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
     <h1 align="center">Hola 👋, soy Gonzalez Palantoc Jesus Antonio</h1>
-    <h4 align="center">Actualmente estudiante de ultimo semestre de la carrera de Ingenieria en Sistemas Computacionales, con especialidad en TIC'S</h4>
-    <p align="center">Soy un apasionado desarrollador de software con experiencia en el desarrollo frontend y backend. Mi objetivo principal es crear soluciones innovadoras y funcionales que satisfagan las necesidades de los usuarios y brinden una experiencia excepcional.
-    En mi repositorio encontrarás una variedad de proyectos que reflejan mi pasión por la tecnología y mi dedicación al aprendizaje constante. Me encanta trabajar en equipo y colaborar con otros desarrolladores para abordar desafíos complejos y llevar a cabo ideas creativas. </p>
+    <h4 align="center">Ingeniero en Sistemas Computacionales, con especialidad en TIC'S</h4>
+    <p align="center">Busco contribuir con mi experiencia en proyectos innovadores, abarcando desde el análisis y diseño hasta la implementación y lanzamiento, para generar soluciones de alto impacto que impulsen la eficiencia y el crecimiento de las organizaciones. Mi pasión por la tecnología y el aprendizaje continuo me permite adaptarme rápidamente a nuevos desafíos y entornos dinámicos.</p>
 </div>
 
 ### 👨‍💻 Sobre mi :
